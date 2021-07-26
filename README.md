@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shay Kricheli
-- 👀 I’m interested in Data Science, Control Robotics, Math and Physics
-- 🌱 I’m currently finishing my CS Master
-- 💞️ I’m looking to collaborate on various topics
+- 👋 Hi, I’m Joshua Shay Kricheli
+- 👀 I’m interested in Data Science and Control Robotics
+- 🌱 I’m currently finishing my CS Master at BGU, Israel
+- 💞️ I’m looking to collaborate on algorithmic control problems
 - 📫 You can reach me at skricheli2@gmail.com 
 
 <!---
