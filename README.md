@@ -4,7 +4,7 @@
 - 🎓 I graduated from my M.Sc. in Computer Science and B.Sc. in Mechanical Engineering, both from BGU, Israel
 - 👐 I’m looking to collaborate on various AI-ML-related problems, both from a formal and algorithmic approach
 - 🔗 More information about me is available at [shaykricheli.com](https://shaykricheli.com)
-- 📫 Organizational email: krichelj@post.bgu.ac.il , personal email: kricheli2@gmail.com
+- 📫 Organizational email: krichelj@post.bgu.ac.il , personal email: skricheli2@gmail.com
 
 <!---
 krichelj/krichelj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
