@@ -5,7 +5,7 @@
 - 🇮🇱 I'm based in Tel Aviv, Israel
 - 👐 I’m looking to collaborate on various AI-ML-related problems, both from a formal and algorithmic approach
 - 🔗 More information about me is available at [shaykricheli.com](https://shaykricheli.com)
-- 🌵 ASU organizational email: jkrichel@asu.edu
+- ☀️: ASU organizational email: jkrichel@asu.edu
 - 🐫 BGU organizational email: krichelj@post.bgu.ac.il
 - 📫 Personal email: skricheli2@gmail.com
 
