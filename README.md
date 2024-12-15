@@ -5,7 +5,7 @@
 - 👀 I’m interested in various theoretical Artificial Intelligence subfields and their applications; currently focusing on NeuroSymbolic AI, Physics-Informed AI, Control Theory,  Robotics, Quantum AI and Optimization
 - 👥 I’m looking to collaborate on various AI/ML-related problems, both from formal, algorithmic and applicative approaches
 - :sunrise_over_mountains: I am based in Los Angeles, CA, USA
-- 🔗 My online CV is available at [krichelj.github.io](https://krichelj.github.io/)
+- 🔗 My personal website is available at [krichelj.github.io](https://krichelj.github.io/)
 - ☀️ ASU organizational email: jkrichel@asu.edu
 - 🐫 BGU organizational email: krichelj@post.bgu.ac.il
 - 📮 Personal email: skricheli2@gmail.com
