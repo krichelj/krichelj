@@ -8,7 +8,7 @@
 - :sunrise_over_mountains: I am based in Los Angeles, CA, USA
 - 🔗 My personal website is available at [krichelj.github.io](https://krichelj.github.io/)
 - ☀️ ASU organizational email: jkrichel@asu.edu
-- :palm_tree: USC organizational email: kricheli@asu.edu
+- :palm_tree: USC organizational email: kricheli@usc.edu
 - 🐫 BGU organizational email: krichelj@post.bgu.ac.il
 - 📮 Personal email: skricheli2@gmail.com
 
