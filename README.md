@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Joshua Shay Kricheli
-- 🇺🇸 I am in the third year of my Computer Science Doctoral Studies at the [College of Engineering and Computer Science](https://ecs.syracuse.edu/) of [Syracuse Universit (SU)](https://www.syracuse.edu/), NY, USA
+- 🇺🇸 I am in the third year of my Computer Science Doctoral Studies at the [College of Engineering and Computer Science](https://ecs.syracuse.edu/) of [Syracuse University (SU)](https://www.syracuse.edu/), NY, USA
 - :mag_right: I serve as a Research Associate at the [Leibnitz Lab](https://leibniz.syracuse.edu/) directed by Professor [Paulo Shakarian](https://en.wikipedia.org/wiki/Paulo_Shakarian) focusing on Neuro-Symbolic AI
 - :brain: In the last summer, I was also a Visiting Researcher at the [Learning Sciences group](https://ict.usc.edu/research/labs-groups/learning-sciences/) at the [Institute for Creative Technologies (ICT)](https://ict.usc.edu/) under the [University of Southern California (USC)](https://www.usc.edu/).
 - 🎓 I graduated from my M.Sc. in Computer Science and B.Sc. in Mechanical Engineering, both from [Ben Gurion University of the Negev (BGU)](https://www.bgu.ac.il/en/), Israel
